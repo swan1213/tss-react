@@ -15,10 +15,3 @@
       <img src="https://img.shields.io/npm/l/tss-react">
     </a>
 </p>
-<p align="center">
-  <a href="https://www.tss-react.dev">Home</a>
-   - 
-  <a href="https://docs.tss-react.dev">Documentation</a>
-</p>
-
-> 🆕 `tss-react` now [supports Next.js 13 appDir](https://docs.tss-react.dev/ssr/next.js#app-dir) 🥳.
